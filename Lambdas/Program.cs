@@ -28,8 +28,8 @@ public class Program
         Func<int> f = () => 20; 
         Console.WriteLine(f());
 
-        Func<int> f = () => Cal();
-        Console.WriteLine(f());
+        Func<int> f1= () => Cal();
+        Console.WriteLine(f1());
 
         Action<int> ff = x => { Cal(x); };
         ff(3);
