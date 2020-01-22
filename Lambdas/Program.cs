@@ -1,17 +1,4 @@
-﻿//using System;
-
-//namespace Lambdas
-//{
-//    class Program
-//    {
-//        static void Main(string[] args)
-//        {
-//            Console.WriteLine("Hello World!");
-//        }
-//    }
-//}
-
-using System;
+﻿using System;
 
 public class Program
 {
